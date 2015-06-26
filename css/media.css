@@ -1,0 +1,27 @@
+@media only screen and (max-width: 650px) {
+  .quote p {
+    text-align: center; }
+
+  .pt-in {
+    margin: 0 0 20px 0;
+    width: 50%; } }
+@media only screen and (max-width: 640px) {
+  .green-btn a {
+    width: 22% !important;
+    text-align: center;
+    margin: 0 2% 15px; } }
+@media only screen and (max-width: 600px) {
+  .c-in h3 {
+    font-size: 40px;
+    padding: 40px 0; }
+
+  .descr .descript {
+    font-size: 12px; }
+
+  .achiev .ach-in h3 {
+    font-size: 25px;
+    padding: 35px 0; }
+  .achiev .ach-in .ach .title {
+    font-size: 20px; } }
+
+/*# sourceMappingURL=media.css.map */

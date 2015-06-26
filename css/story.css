@@ -1,0 +1,358 @@
+header {
+  overflow: hidden;
+  background-color: #1d1d1d; }
+
+.green-btn a {
+  color: white;
+  background-color: #16a61e !important;
+  border-radius: 5px;
+  padding: 10px 10px 6px 10px !important;
+  margin-top: 7px; }
+  .green-btn a:hover {
+    transition: 0.5s;
+    border-bottom: 3px solid transparent !important;
+    background-color: white !important;
+    color: black !important; }
+
+.content {
+  overflow: hidden;
+  clear: both;
+  padding: 0 10px; }
+  .content p, .content h3 {
+    color: white; }
+
+.index {
+  background-image: url("../img/index-cont.jpg");
+  background-repeat: no-repeat;
+  background-size: cover; }
+
+.c-in {
+  padding: 0 0.9375rem;
+  overflow: hidden;
+  margin-bottom: 20px; }
+  .c-in p {
+    font-size: 15px;
+    margin-bottom: 15px; }
+  .c-in h3 {
+    text-align: center;
+    font-size: 47px;
+    font-weight: bold;
+    padding: 75px 0; }
+
+.photo {
+  width: 280px;
+  max-width: 26%;
+  float: left;
+  height: 375px; }
+
+.s-text {
+  padding: 0 0px 0 75px;
+  max-width: 74%;
+  float: left;
+  margin-top: -6px; }
+
+.clients {
+  background-color: white;
+  overflow: hidden; }
+  .clients .cl-cont {
+    max-width: 1081px;
+    margin: auto;
+    padding-bottom: 85px; }
+    .clients .cl-cont .cl-in {
+      overflow: hidden; }
+  .clients h3 {
+    font-size: 30px;
+    text-align: center;
+    margin: 80px 0 30px 0;
+    font-weight: bold; }
+
+.cl-logo {
+  width: 17%;
+  height: 62px;
+  margin: 10px 4%;
+  float: left;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: contain; }
+
+.cl-l1 {
+  background-image: url("../img/Goodyear.png"); }
+  .cl-l1:hover {
+    background-image: url("../img/Goodyear-c.png"); }
+
+.cl-l2 {
+  background-image: url("../img/Motorola.png"); }
+  .cl-l2:hover {
+    background-image: url("../img/Motorola-c.png"); }
+
+.cl-l3 {
+  background-image: url("../img/Turner.png"); }
+  .cl-l3:hover {
+    background-image: url("../img/Turner-c.png"); }
+
+.cl-l4 {
+  background-image: url("../img/SherylCrow.png"); }
+  .cl-l4:hover {
+    background-image: url("../img/SherylCrow-c.png"); }
+
+.cl-l5 {
+  background-image: url("../img/WarnerBros.png"); }
+  .cl-l5:hover {
+    background-image: url("../img/WarnerBros-c.png"); }
+
+.cl-l6 {
+  background-image: url("../img/TGIFridays.png"); }
+  .cl-l6:hover {
+    background-image: url("../img/TGIFridays-c.png"); }
+
+.cl-l7 {
+  background-image: url("../img/Rode_logo.png"); }
+  .cl-l7:hover {
+    background-image: url("../img/Rode_logo-c.png"); }
+
+.cl-l8 {
+  background-image: url("../img/TimeWarner.png"); }
+  .cl-l8:hover {
+    background-image: url("../img/TimeWarner-c.png"); }
+
+.cl-l9 {
+  background-image: url("../img/HBO.png");
+  background-size: 66%; }
+  .cl-l9:hover {
+    background-image: url("../img/HBO-c.png"); }
+
+.cl-l10 {
+  background-image: url("../img/Sam'sClub.png"); }
+  .cl-l10:hover {
+    background-image: url("../img/Sam'sClub-c.png"); }
+
+.cl-l11 {
+  background-image: url("../img/MakeaWish.png"); }
+  .cl-l11:hover {
+    background-image: url("../img/MakeaWish-c.png"); }
+
+.cl-l12 {
+  color: #e74736;
+  float: left;
+  margin: 23px 3.5%;
+  width: 15%;
+  text-align: center; }
+  .cl-l12:hover {
+    color: red; }
+
+.green_btn {
+  text-align: center;
+  display: block;
+  margin: auto;
+  width: 150px;
+  margin-bottom: 50px;
+  color: white !important;
+  background-color: #16a61e !important;
+  border-radius: 5px;
+  padding: 10px 10px 6px 10px !important; }
+  .green_btn:hover {
+    transition: 0.5s;
+    background-color: #1ce826 !important;
+    color: black !important; }
+
+.achiev {
+  background-color: #f4f4f4;
+  overflow: hidden;
+  clear: both; }
+  .achiev .ach-in {
+    max-width: 1081px;
+    margin: auto;
+    overflow: hidden;
+    padding: 0 10px; }
+    .achiev .ach-in .ach-in-cont {
+      margin-bottom: 50px;
+      overflow: hidden; }
+    .achiev .ach-in h3 {
+      font-size: 30px;
+      font-weight: bold;
+      text-align: center;
+      padding: 80px 0 50px 0; }
+    .achiev .ach-in .ach {
+      width: 23%;
+      float: left;
+      margin: 0 1%; }
+      .achiev .ach-in .ach .title {
+        font-weight: bold;
+        font-size: 23px; }
+      .achiev .ach-in .ach p {
+        text-align: center; }
+      .achiev .ach-in .ach .ach-img {
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: center center;
+        width: 50%;
+        height: 100px;
+        margin: auto; }
+
+.descr {
+  margin-top: 10px; }
+  .descr .descript {
+    font-size: 15px;
+    margin-bottom: 0; }
+
+.ai-1 {
+  background-image: url("../img/Wreath.png"); }
+
+.ai-2 {
+  background-image: url("../img/Chair.png"); }
+
+.ai-3 {
+  background-image: url("../img/Screen.png"); }
+
+.ai-4 {
+  background-image: url("../img/Diamond.png"); }
+
+.jackbox .video {
+  background-color: #2c2c2c;
+  overflow: hidden; }
+  .jackbox .video .vd-cont {
+    max-width: 1081px;
+    margin: auto;
+    padding: 50px 10px 0 10px; }
+    .jackbox .video .vd-cont .vdc-in {
+      margin-bottom: 70px;
+      overflow: hidden; }
+
+.left {
+  width: 55%; }
+  .left iframe {
+    width: 90%; }
+
+.right {
+  width: 40%; }
+  .right h3 {
+    margin-top: -6px;
+    color: white;
+    max-width: 300px; }
+  .right .client-p {
+    width: 60px;
+    float: left; }
+  .right .client-a {
+    float: left;
+    color: #e74736; }
+  .right p {
+    float: left;
+    color: white;
+    margin-bottom: 20px; }
+
+.people {
+  background-color: #f4f4f4;
+  clear: both;
+  overflow: hidden; }
+  .people .pl-in {
+    max-width: 1081px;
+    margin: auto;
+    padding: 0 10px; }
+    .people .pl-in .quote {
+      max-width: 836px;
+      margin: auto; }
+      .people .pl-in .quote p {
+        color: #2c2c2c;
+        font-size: 15px;
+        font-style: oblique; }
+    .people .pl-in .scope {
+      background-image: url("../img/scope.png");
+      background-repeat: no-repeat;
+      background-size: contain;
+      width: 40px;
+      height: 35px;
+      margin: 90px auto 50px auto; }
+
+.portrets {
+  margin: 90px auto 60px auto;
+  overflow: hidden; }
+
+.pt-in {
+  width: 20%;
+  float: left;
+  margin: 0 2.5%; }
+
+.pti {
+  width: 140px;
+  margin: auto;
+  text-align: center;
+  display: block;
+  opacity: 0.69; }
+
+.pti:hover {
+  opacity: 1 !important; }
+
+.pti-in {
+  width: 69px;
+  height: 69px;
+  margin: auto;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-bottom: 19px; }
+
+.ph-1 {
+  background-image: url("../img/phil.png"); }
+
+.ph-2 {
+  background-image: url("../img/vincent.png"); }
+
+.ph-3 {
+  background-image: url("../img/david.png"); }
+
+.ph-4 {
+  background-image: url("../img/dale.png"); }
+
+.p-name p {
+  margin-bottom: 0px;
+  color: #2c2c2c; }
+  .p-name p:first-child {
+    color: #e74736; }
+
+footer {
+  width: 100%;
+  background-color: #1d1d1d; }
+  footer #footer {
+    max-width: 1081px;
+    margin: auto;
+    padding: 13px 10px 0 0;
+    overflow: hidden; }
+
+.rights {
+  float: left;
+  width: 70%; }
+  .rights a {
+    color: white;
+    font-size: 12px;
+    margin-left: 10px; }
+    .rights a:hover {
+      color: #e74736; }
+  .rights p {
+    font-size: 12px;
+    margin: 0 10px 0 10px;
+    float: left;
+    color: white; }
+  .rights .arr {
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+    padding: 0 10px; }
+
+.social {
+  float: right;
+  margin-top: -3px; }
+  .social a {
+    margin: 0 3px; }
+    .social a .fa {
+      text-align: center;
+      width: 20px;
+      background-color: white;
+      padding-top: 2px;
+      border-radius: 2px;
+      font-size: 20px; }
+      .social a .fa:before {
+        color: #2c2c2c; }
+    .social a:hover .fa {
+      background-color: #e74736; }
+      .social a:hover .fa:before {
+        color: white; }
+
+/*# sourceMappingURL=story.css.map */
