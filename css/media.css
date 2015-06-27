@@ -1,3 +1,129 @@
+@media only screen and (max-width: 1090px) {
+  .register .form .form-in .green_btn {
+    float: left;
+    margin-bottom: 0;
+    margin-top: 10px; }
+  .register .form .form-in .form-info {
+    width: auto;
+    margin: auto;
+    padding: 4px 0 0px 36px;
+    background-position: 15px 6px;
+    float: left;
+    height: 30px; }
+  .register .form .form-in .calendar {
+    float: left;
+    margin: 0 5% 0% 14%; }
+  .register .form .form-in .fi-right {
+    overflow: hidden;
+    width: 200px;
+    float: right; } }
+@media only screen and (max-width: 1071px) {
+  .prices {
+    margin: 0 2%; }
+    .prices:first-child {
+      margin: 0; } }
+@media only screen and (max-width: 1000px) {
+  .register .form .form-in .calendar {
+    float: left;
+    margin: 0 5% 0% 10%; } }
+@media only screen and (max-width: 950px) {
+  .form-content .right {
+    width: 485px; }
+    .form-content .right .prices {
+      margin: 0 2%; }
+      .form-content .right .prices:last-child {
+        margin: auto;
+        float: left; }
+      .form-content .right .prices:first-child {
+        margin: auto;
+        float: left; } }
+@media only screen and (max-width: 918px) {
+  .form-content .left {
+    width: auto;
+    margin-top: 0; }
+    .form-content .left .left-in1, .form-content .left .left-in2 {
+      width: auto;
+      float: none; }
+
+  .ticket-spec {
+    margin-top: 10px; } }
+@media only screen and (max-width: 915px) {
+  .map {
+    display: none; }
+
+  .ws {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 39px; } }
+@media only screen and (max-width: 885px) {
+  .register .form .form-in .calendar {
+    float: left;
+    margin: 0 5% 0% 5%; } }
+@media only screen and (max-width: 840px) {
+  .register .form .form-in .calendar {
+    float: left;
+    margin: 0 5% 0% 2%; } }
+@media only screen and (max-width: 813px) {
+  .register .form .form-in .calendar {
+    margin: 0; } }
+@media only screen and (max-width: 800px) {
+  .register .form .form-in .calendar {
+    float: left;
+    margin: 0; } }
+@media only screen and (max-width: 780px) {
+  .register .form {
+    padding: 10px 10px 5px 10px; }
+    .register .form .form-in .green_btn {
+      margin-bottom: 10px; }
+    .register .form .form-in .fm-cn {
+      overflow: hidden;
+      width: 450px;
+      margin: auto;
+      float: none;
+      clear: both;
+      padding-left: 3%; }
+      .register .form .form-in .fm-cn .form-map {
+        background-position: initial; }
+      .register .form .form-in .fm-cn .city-name {
+        margin: auto;
+        float: left; }
+        .register .form .form-in .fm-cn .city-name p {
+          margin-bottom: 10px; }
+    .register .form .form-in .calendar {
+      margin: auto;
+      float: none;
+      overflow: hidden; }
+    .register .form .form-in .fi-right {
+      overflow: hidden;
+      float: none;
+      margin: auto;
+      width: 200px; }
+      .register .form .form-in .fi-right .form-info {
+        margin-top: 10px; } }
+@media only screen and (max-width: 750px) {
+  .register .form-content .left {
+    width: 400px;
+    overflow: hidden;
+    margin: auto;
+    float: none !important; }
+    .register .form-content .left .left-in1 {
+      width: 150px;
+      margin: auto;
+      float: left; }
+    .register .form-content .left .left-in2 {
+      width: 200px;
+      float: right; }
+  .register .form-content .right {
+    margin: auto;
+    float: none !important;
+    overflow: hidden;
+    width: 485px; }
+
+  .prices .price {
+    padding: 10px 0; }
+
+  .ticket-spec {
+    margin-top: 30px; } }
 @media only screen and (max-width: 650px) {
   .quote p {
     text-align: center; }
@@ -23,5 +149,8 @@
     padding: 35px 0; }
   .achiev .ach-in .ach .title {
     font-size: 20px; } }
+@media only screen and (max-width: 549px) {
+  .form-content {
+    padding: 10px 0; } }
 
 /*# sourceMappingURL=media.css.map */

@@ -296,7 +296,7 @@
     color: #1d1d1d; }
 
 .calendar {
-  width: 13%;
+  width: 125px;
   float: left;
   margin: 0 5% 0% 6%; }
   .calendar .c-in-date2 {
@@ -325,7 +325,7 @@
   background-image: url("../img/info.png");
   padding: 4px 0 0px 20px;
   background-repeat: no-repeat;
-  background-size: 7%;
+  background-size: 15px;
   background-position: 0px 6px;
   float: left;
   width: 20%;
@@ -393,7 +393,7 @@
 .ticket-spec {
   background-image: url("../img/Sticker.png");
   background-repeat: no-repeat;
-  background-size: 28%;
+  background-size: 70px;
   background-position: 0 0;
   padding-left: 83px;
   margin-top: 40px; }
