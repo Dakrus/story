@@ -18,6 +18,17 @@
     width: 200px;
     float: right; } }
 @media only screen and (max-width: 1071px) {
+  .logo {
+    width: 180px;
+    margin: auto;
+    float: none;
+    padding: 0; }
+
+  .menu {
+    float: none !important;
+    padding: 0;
+    margin: auto; }
+
   .prices {
     margin: 0 2%; }
     .prices:first-child {
@@ -130,12 +141,50 @@
 
   .pt-in {
     margin: 0 0 20px 0;
-    width: 50%; } }
+    width: 50%; }
+
+  .class-type .green_btn {
+    float: none !important; }
+  .class-type h3 {
+    margin-top: 60px !important; }
+
+  .ct-in .ct-in-right {
+    float: right;
+    width: 55%; } }
 @media only screen and (max-width: 640px) {
   .green-btn a {
     width: 22% !important;
     text-align: center;
-    margin: 0 2% 15px; } }
+    margin: 0 2% 15px; }
+
+  .menu {
+    position: absolute; }
+    .menu .top-bar {
+      position: relative; }
+      .menu .top-bar ul {
+        position: relative; }
+      .menu .top-bar .top-bar-section {
+        position: relative; }
+        .menu .top-bar .top-bar-section ul.left {
+          position: relative; }
+          .menu .top-bar .top-bar-section ul.left li {
+            position: relative;
+            background-color: rgba(29, 29, 29, 0.96);
+            text-align: center; }
+            .menu .top-bar .top-bar-section ul.left li:hover {
+              background-color: rgba(107, 107, 107, 0.96); }
+            .menu .top-bar .top-bar-section ul.left li a {
+              padding: 12px 0 12px 0; }
+          .menu .top-bar .top-bar-section ul.left .green-btn {
+            padding-bottom: 20px; }
+            .menu .top-bar .top-bar-section ul.left .green-btn:hover {
+              background-color: rgba(29, 29, 29, 0.96); }
+            .menu .top-bar .top-bar-section ul.left .green-btn a {
+              width: 150px !important;
+              margin: auto; }
+
+  .e-bird {
+    padding: 0 10px; } }
 @media only screen and (max-width: 600px) {
   .c-in h3 {
     font-size: 40px;
@@ -149,6 +198,36 @@
     padding: 35px 0; }
   .achiev .ach-in .ach .title {
     font-size: 20px; } }
+@media only screen and (max-width: 560px) {
+  .t-type {
+    font-size: 14px; }
+
+  table th .price {
+    font-size: 18px; }
+  table thead p, table tr p, table th p, table td p {
+    padding: 0 0 !important; }
+  table thead h3, table tr h3, table th h3, table td h3 {
+    font-size: 17px !important; }
+
+  .gold {
+    background-size: 37px; }
+
+  .times {
+    padding-top: 10px !important;
+    padding-bottom: 0 !important;
+    margin-top: 0; }
+    .times .time-in {
+      width: auto !important;
+      margin: 0 !important; }
+      .times .time-in p {
+        width: auto !important;
+        margin-left: 0 !important;
+        margin-bottom: 0 !important;
+        padding-left: 0 !important; }
+
+  tr td .green_btn {
+    width: 90px;
+    margin-bottom: 0; } }
 @media only screen and (max-width: 549px) {
   .form-content {
     padding: 10px 0; } }
