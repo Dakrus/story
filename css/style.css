@@ -1046,6 +1046,13 @@ footer {
 @media only screen and (max-width: 549px) {
   .form-content {
     padding: 10px 0; } }
+@media only screen and (max-width: 450px) {
+  .wdc-bottom .class-type .ct-in-left {
+    width: 100%; }
+  .wdc-bottom .class-type .ct-in-right {
+    width: 200px;
+    float: none;
+    margin: auto; } }
 .ws-page {
   background-image: url("../img/workshop-bg.jpg");
   background-repeat: no-repeat;
@@ -1206,6 +1213,41 @@ td {
 .ct-in-right {
   width: 65%;
   float: left; }
+
+.conty h3 {
+  text-align: center;
+  font-size: 47px;
+  font-weight: bold;
+  margin-top: 80px; }
+
+.wd-content {
+  max-width: 700px;
+  margin: 50px auto 0 auto; }
+
+.wdc-title {
+  font-weight: bold;
+  font-size: 24px;
+  text-align: center; }
+
+.wdc-bottom .class-type {
+  padding: 0; }
+.wdc-bottom .ct-in-left {
+  width: 50%; }
+  .wdc-bottom .ct-in-left ul li {
+    font-size: 1rem; }
+.wdc-bottom .ct-in-right {
+  width: 50%; }
+  .wdc-bottom .ct-in-right p {
+    font-size: 30px;
+    text-align: center; }
+  .wdc-bottom .ct-in-right .red-btn {
+    margin: auto;
+    float: none;
+    border-radius: 2px;
+    width: 200px;
+    background-color: #e73e3d !important; }
+    .wdc-bottom .ct-in-right .red-btn:hover {
+      background-color: #f24140 !important; }
 
 @font-face {
   font-family: Avenir;

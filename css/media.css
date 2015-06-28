@@ -231,5 +231,12 @@
 @media only screen and (max-width: 549px) {
   .form-content {
     padding: 10px 0; } }
+@media only screen and (max-width: 450px) {
+  .wdc-bottom .class-type .ct-in-left {
+    width: 100%; }
+  .wdc-bottom .class-type .ct-in-right {
+    width: 200px;
+    float: none;
+    margin: auto; } }
 
 /*# sourceMappingURL=media.css.map */
