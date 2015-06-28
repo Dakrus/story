@@ -1,0 +1,83 @@
+.tblock {
+  width: 33%;
+  float: left;
+  text-align: center; }
+  .tblock:first-child {
+    border: 1px solid #adadad;
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px; }
+    .tblock:first-child .t-title {
+      border-bottom: 1px solid #adadad; }
+  .tblock:nth-child(2) {
+    border-top: 1px solid #adadad;
+    border-bottom: 1px solid #adadad; }
+    .tblock:nth-child(2) .t-title {
+      border-bottom: 1px solid #adadad; }
+
+.gold {
+  border: 1px solid #fec52e;
+  border-top-right-radius: 6px;
+  border-bottom-right-radius: 6px;
+  background-color: #fec52e; }
+  .gold .t-title {
+    background-color: #fec52e;
+    border: none;
+    background-image: url("../img/Sticker.png");
+    background-repeat: no-repeat;
+    background-position: 97% 9px;
+    background-size: 50px; }
+  .gold .t-type {
+    color: white; }
+  .gold .t-content {
+    background-color: #fefbeb; }
+    .gold .t-content p:first-child {
+      color: #e74736;
+      font-weight: bold;
+      max-width: none; }
+    .gold .t-content span {
+      margin-left: 14px;
+      font-size: 14px; }
+
+.t-type {
+  color: #adadad;
+  padding: 30px 0 10px 0;
+  text-transform: uppercase; }
+
+.t-title {
+  background-color: #f5f5f5; }
+  .t-title h3 {
+    font-size: 30px;
+    font-weight: bold; }
+  .t-title .price {
+    font-size: 30px;
+    padding-bottom: 20px; }
+  .t-title p {
+    margin-bottom: 0; }
+
+.times {
+  color: #e74736;
+  background-image: url("../img/clock.png");
+  background-repeat: no-repeat;
+  background-size: 14px;
+  background-position: 0 3px;
+  padding-left: 20px;
+  width: 160px;
+  margin: auto;
+  overflow: hidden; }
+  .times p {
+    font-weight: bold; }
+
+.t-content {
+  padding: 30px 5px; }
+  .t-content .green_btn {
+    vertical-align: bottom; }
+  .t-content p {
+    max-width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 14px; }
+
+.tc-in {
+  overflow: hidden; }
+
+/*# sourceMappingURL=test.css.map */

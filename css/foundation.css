@@ -4362,14 +4362,14 @@ table {
   table-layout: auto; }
   table caption {
     background: transparent;
-    color: #222222;
+    color: #1d1d1d;
     font-size: 1rem;
     font-weight: bold; }
   table thead {
     background: #F5F5F5; }
     table thead tr th,
     table thead tr td {
-      color: #222222;
+      color: #1d1d1d;
       font-size: 0.875rem;
       font-weight: bold;
       padding: 0.5rem 0.625rem 0.625rem; }
@@ -4377,7 +4377,7 @@ table {
     background: #F5F5F5; }
     table tfoot tr th,
     table tfoot tr td {
-      color: #222222;
+      color: #1d1d1d;
       font-size: 0.875rem;
       font-weight: bold;
       padding: 0.5rem 0.625rem 0.625rem; }
