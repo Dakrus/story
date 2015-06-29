@@ -93,12 +93,69 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sponsors.haml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="sponsors.haml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sponsors.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.025817556">
+            <state vertical-scroll-proportion="-0.625">
               <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test-file.haml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test-file.haml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.77540106">
+              <caret line="210" column="0" selection-start-line="210" selection-start-column="0" selection-end-line="210" selection-end-column="0" />
+              <folding>
+                <marker date="1435613902138" expanded="true" signature="0:983" placeholder=".t-title" />
+                <marker date="1435613902138" expanded="true" signature="12:82" placeholder=".t-title" />
+                <marker date="1435613902138" expanded="true" signature="987:2254" placeholder=".ticket-table-resp" />
+                <marker date="1435613902138" expanded="true" signature="1008:1403" placeholder=".tblock" />
+                <marker date="1435613902138" expanded="true" signature="1020:1097" placeholder=".t-title" />
+                <marker date="1435613902138" expanded="true" signature="1102:1403" placeholder=".t-content" />
+                <marker date="1435613902138" expanded="true" signature="1119:1151" placeholder=".times" />
+                <marker date="1435613902138" expanded="true" signature="1406:1769" placeholder=".tblock" />
+                <marker date="1435613902138" expanded="true" signature="1418:1494" placeholder=".t-title" />
+                <marker date="1435613902138" expanded="true" signature="1499:1769" placeholder=".t-content" />
+                <marker date="1435613902138" expanded="true" signature="1516:1548" placeholder=".times" />
+                <marker date="1435613902138" expanded="true" signature="1772:2254" placeholder=".tblock.gold" />
+                <marker date="1435613902138" expanded="true" signature="1789:1866" placeholder=".t-title" />
+                <marker date="1435613902138" expanded="true" signature="1871:2254" placeholder=".t-content" />
+                <marker date="1435613902138" expanded="true" signature="2650:7037" placeholder=".wrapper" />
+                <marker date="1435613902138" expanded="true" signature="2681:3644" placeholder=".rows" />
+                <marker date="1435613902138" expanded="true" signature="2697:2798" placeholder=".large-2.small-2.columns.logo" />
+                <marker date="1435613902138" expanded="true" signature="2809:3644" placeholder=".large-10.medium-9.columns.menu" />
+                <marker date="1435613902138" expanded="true" signature="3651:6566" placeholder=".jackbox" />
+                <marker date="1435613902138" expanded="true" signature="3668:3923" placeholder=".conty" />
+                <marker date="1435613902138" expanded="true" signature="3932:5226" placeholder=".sponsor-cont" />
+                <marker date="1435613902138" expanded="true" signature="3956:4086" placeholder=".sc-row-top" />
+                <marker date="1435613902138" expanded="true" signature="4097:4874" placeholder=".sc-row-mid" />
+                <marker date="1435613902138" expanded="true" signature="4885:5226" placeholder=".sc-row-bot" />
+                <marker date="1435613902138" expanded="true" signature="5236:6566" placeholder=".people" />
+                <marker date="1435613902138" expanded="true" signature="5254:6566" placeholder=".pl-in" />
+                <marker date="1435613902138" expanded="true" signature="5273:5279" placeholder=".scope" />
+                <marker date="1435613902138" expanded="true" signature="5292:5758" placeholder=".quote" />
+                <marker date="1435613902138" expanded="true" signature="5771:6566" placeholder=".portrets" />
+                <marker date="1435613902138" expanded="true" signature="5795:5977" placeholder=".pt-in" />
+                <marker date="1435613902138" expanded="true" signature="5853:5865" placeholder=".pti-in.ph-1" />
+                <marker date="1435613902138" expanded="true" signature="5884:5977" placeholder=".p-name" />
+                <marker date="1435613902138" expanded="true" signature="5992:6177" placeholder=".pt-in" />
+                <marker date="1435613902138" expanded="true" signature="6050:6062" placeholder=".pti-in.ph-2" />
+                <marker date="1435613902138" expanded="true" signature="6081:6177" placeholder=".p-name" />
+                <marker date="1435613902138" expanded="true" signature="6192:6372" placeholder=".pt-in" />
+                <marker date="1435613902138" expanded="true" signature="6250:6262" placeholder=".pti-in.ph-3" />
+                <marker date="1435613902138" expanded="true" signature="6281:6372" placeholder=".p-name" />
+                <marker date="1435613902138" expanded="true" signature="6387:6566" placeholder=".pt-in" />
+                <marker date="1435613902138" expanded="true" signature="6445:6457" placeholder=".pti-in.ph-4" />
+                <marker date="1435613902138" expanded="true" signature="6476:6566" placeholder=".p-name" />
+                <marker date="1435613902138" expanded="true" signature="6589:7037" placeholder="#footer" />
+                <marker date="1435613902138" expanded="true" signature="6607:6793" placeholder=".rights" />
+                <marker date="1435613902138" expanded="true" signature="6804:7037" placeholder=".social" />
+                <marker date="1435613902138" expanded="true" signature="7453:8569" placeholder=".cl-in" />
+                <marker date="1435613902138" expanded="true" signature="7474:7480" placeholder=".cl-in" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -134,9 +191,7 @@
         <option value="$PROJECT_DIR$/css/ws_downloads.sass" />
         <option value="$PROJECT_DIR$/workshop.html" />
         <option value="$PROJECT_DIR$/css/sponsors.sass" />
-        <option value="$PROJECT_DIR$/sponsors.haml" />
         <option value="$PROJECT_DIR$/css/style.sass" />
-        <option value="$PROJECT_DIR$/test-file.haml" />
         <option value="$PROJECT_DIR$/css/quest.sass" />
         <option value="$PROJECT_DIR$/css/story.sass" />
         <option value="$PROJECT_DIR$/css/media.sass" />
@@ -147,6 +202,8 @@
         <option value="$PROJECT_DIR$/questions.haml" />
         <option value="$PROJECT_DIR$/workshop.haml" />
         <option value="$PROJECT_DIR$/workshop_page.haml" />
+        <option value="$PROJECT_DIR$/sponsors.haml" />
+        <option value="$PROJECT_DIR$/test-file.haml" />
       </list>
     </option>
   </component>
@@ -419,7 +476,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22713864" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32649842" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32649842" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -733,14 +790,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test-file.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="211" column="0" selection-start-line="211" selection-start-column="0" selection-end-line="211" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/story.sass">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.625">
@@ -823,9 +872,64 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sponsors.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.025817556">
+        <state vertical-scroll-proportion="-0.625">
           <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-file.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.77540106">
+          <caret line="210" column="0" selection-start-line="210" selection-start-column="0" selection-end-line="210" selection-end-column="0" />
+          <folding>
+            <marker date="1435613902138" expanded="true" signature="0:983" placeholder=".t-title" />
+            <marker date="1435613902138" expanded="true" signature="12:82" placeholder=".t-title" />
+            <marker date="1435613902138" expanded="true" signature="987:2254" placeholder=".ticket-table-resp" />
+            <marker date="1435613902138" expanded="true" signature="1008:1403" placeholder=".tblock" />
+            <marker date="1435613902138" expanded="true" signature="1020:1097" placeholder=".t-title" />
+            <marker date="1435613902138" expanded="true" signature="1102:1403" placeholder=".t-content" />
+            <marker date="1435613902138" expanded="true" signature="1119:1151" placeholder=".times" />
+            <marker date="1435613902138" expanded="true" signature="1406:1769" placeholder=".tblock" />
+            <marker date="1435613902138" expanded="true" signature="1418:1494" placeholder=".t-title" />
+            <marker date="1435613902138" expanded="true" signature="1499:1769" placeholder=".t-content" />
+            <marker date="1435613902138" expanded="true" signature="1516:1548" placeholder=".times" />
+            <marker date="1435613902138" expanded="true" signature="1772:2254" placeholder=".tblock.gold" />
+            <marker date="1435613902138" expanded="true" signature="1789:1866" placeholder=".t-title" />
+            <marker date="1435613902138" expanded="true" signature="1871:2254" placeholder=".t-content" />
+            <marker date="1435613902138" expanded="true" signature="2650:7037" placeholder=".wrapper" />
+            <marker date="1435613902138" expanded="true" signature="2681:3644" placeholder=".rows" />
+            <marker date="1435613902138" expanded="true" signature="2697:2798" placeholder=".large-2.small-2.columns.logo" />
+            <marker date="1435613902138" expanded="true" signature="2809:3644" placeholder=".large-10.medium-9.columns.menu" />
+            <marker date="1435613902138" expanded="true" signature="3651:6566" placeholder=".jackbox" />
+            <marker date="1435613902138" expanded="true" signature="3668:3923" placeholder=".conty" />
+            <marker date="1435613902138" expanded="true" signature="3932:5226" placeholder=".sponsor-cont" />
+            <marker date="1435613902138" expanded="true" signature="3956:4086" placeholder=".sc-row-top" />
+            <marker date="1435613902138" expanded="true" signature="4097:4874" placeholder=".sc-row-mid" />
+            <marker date="1435613902138" expanded="true" signature="4885:5226" placeholder=".sc-row-bot" />
+            <marker date="1435613902138" expanded="true" signature="5236:6566" placeholder=".people" />
+            <marker date="1435613902138" expanded="true" signature="5254:6566" placeholder=".pl-in" />
+            <marker date="1435613902138" expanded="true" signature="5273:5279" placeholder=".scope" />
+            <marker date="1435613902138" expanded="true" signature="5292:5758" placeholder=".quote" />
+            <marker date="1435613902138" expanded="true" signature="5771:6566" placeholder=".portrets" />
+            <marker date="1435613902138" expanded="true" signature="5795:5977" placeholder=".pt-in" />
+            <marker date="1435613902138" expanded="true" signature="5853:5865" placeholder=".pti-in.ph-1" />
+            <marker date="1435613902138" expanded="true" signature="5884:5977" placeholder=".p-name" />
+            <marker date="1435613902138" expanded="true" signature="5992:6177" placeholder=".pt-in" />
+            <marker date="1435613902138" expanded="true" signature="6050:6062" placeholder=".pti-in.ph-2" />
+            <marker date="1435613902138" expanded="true" signature="6081:6177" placeholder=".p-name" />
+            <marker date="1435613902138" expanded="true" signature="6192:6372" placeholder=".pt-in" />
+            <marker date="1435613902138" expanded="true" signature="6250:6262" placeholder=".pti-in.ph-3" />
+            <marker date="1435613902138" expanded="true" signature="6281:6372" placeholder=".p-name" />
+            <marker date="1435613902138" expanded="true" signature="6387:6566" placeholder=".pt-in" />
+            <marker date="1435613902138" expanded="true" signature="6445:6457" placeholder=".pti-in.ph-4" />
+            <marker date="1435613902138" expanded="true" signature="6476:6566" placeholder=".p-name" />
+            <marker date="1435613902138" expanded="true" signature="6589:7037" placeholder="#footer" />
+            <marker date="1435613902138" expanded="true" signature="6607:6793" placeholder=".rights" />
+            <marker date="1435613902138" expanded="true" signature="6804:7037" placeholder=".social" />
+            <marker date="1435613902138" expanded="true" signature="7453:8569" placeholder=".cl-in" />
+            <marker date="1435613902138" expanded="true" signature="7474:7480" placeholder=".cl-in" />
+          </folding>
         </state>
       </provider>
     </entry>
