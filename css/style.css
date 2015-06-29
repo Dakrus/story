@@ -2,6 +2,13 @@
   max-width: 1081px;
   margin: auto; }
 
+.current {
+  border-bottom: 3px solid white !important; }
+
+.left .btn-current a {
+  background-color: white !important;
+  color: #1d1d1d !important; }
+
 .index-page {
   background-image: url("../img/index-bg.jpg");
   background-repeat: no-repeat;
@@ -241,11 +248,9 @@ header {
     color: white;
     max-width: 300px; }
   .right .client-p {
-    width: 60px;
     float: left; }
-  .right .client-a {
-    float: left;
-    color: #e74736; }
+    .right .client-p b {
+      color: #e74736; }
   .right p {
     float: left;
     color: white;
@@ -857,6 +862,28 @@ footer {
     .prices:first-child {
       margin: 0; } }
 @media only screen and (max-width: 1000px) {
+  .left {
+    float: none !important;
+    margin: auto; }
+    .left iframe {
+      width: 100%;
+      height: 281px !important; }
+
+  .right {
+    width: 90%;
+    float: none !important;
+    margin: auto;
+    text-align: justify; }
+    .right h3 {
+      margin-top: 10px;
+      text-align: center;
+      max-width: 400px;
+      margin: auto; }
+
+  .client-p {
+    float: none !important;
+    text-align: center; }
+
   .register .form .form-in .calendar {
     float: left;
     margin: 0 5% 0% 10%; } }
@@ -1044,6 +1071,17 @@ footer {
             .menu .top-bar .top-bar-section ul.left .green-btn a {
               width: 150px !important;
               margin: auto; }
+
+  .story img {
+    margin: auto;
+    float: none;
+    display: block;
+    width: 35%;
+    margin-bottom: 15px; }
+
+  .c-in p {
+    text-align: justify;
+    margin-bottom: 10px; }
 
   .e-bird {
     padding: 0 10px; }
