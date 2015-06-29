@@ -190,11 +190,9 @@ header {
     color: white;
     max-width: 300px; }
   .right .client-p {
-    width: 60px;
     float: left; }
-  .right .client-a {
-    float: left;
-    color: #e74736; }
+    .right .client-p b {
+      color: #e74736; }
   .right p {
     float: left;
     color: white;
