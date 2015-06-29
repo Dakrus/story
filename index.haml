@@ -1,0 +1,76 @@
+%html
+  %head{lang:"en"}
+    %meta{charset:"UTF-8"}
+    %meta{:content => "width=device-width, initial-scale=1.0", :name => "viewport"}/
+    %link{href:"css/foundation.css", rel:"stylesheet"}/
+    %link{href:"css/style.css", rel: "stylesheet"}/
+    %link{href:"//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css", rel:"stylesheet"}/
+    %title Home Page
+  %body
+    .wrapper
+      %header
+        .rows
+          .large-2.small-2.columns.logo
+            %a{href:"#"}
+              %img{src:"img/logo.png", alt:""}
+          .large-10.medium-9.columns.menu
+            %nav.top-bar{"data-topbar" => "", :role => "navigation", "data-option" => "is_hover: false"}
+              %ul.title-area
+                %li.name
+                %li.toggle-topbar.menu-icon
+                  %a{href:"#"}
+                    %span Menu
+              %section.top-bar-section
+                %ul.left
+                  %li
+                    %a{href:"#"} Home
+                  %li
+                    %a{href:"#"} Adam`s story
+                  %li
+                    %a{href:"#"} Workshop
+                  %li
+                    %a{href:"#"} Sponsors
+                  %li
+                    %a{href:"#"} Questions
+                  %li
+                    %a{href:"#"} Workshop downloads
+                  %li.green-btn
+                    %a{href:"#"} Dates+Register
+      .jackbox
+        .index-page
+          .index-content
+            %h3 Captve Your Audience and Develop Best Business Practices
+            .video-block
+              %iframe{:allowfullscreen => "", :frameborder => "0", :height => "281", :mozallowfullscreen => "", :src => "https://player.vimeo.com/video/71795357?title=0&byline=0&portrait=0", :webkitallowfullscreen => "", :width => "500"}
+            .get-tutorial
+              %h3 Get Adam`s Audio Tutorial For Free
+              .gt-form
+                %form
+                  .row
+                    .large-12.columns
+                      .row.collapse
+                        .small-9.columns
+                          %input{type:"text", placeholder:"Your email"}
+                        .small-3.columns
+                          %a.button.postfix.red-btn{href:"#"} get tutorial
+              %p Everybody attending will receive <b>$200+</b> of giveaways from Adam and our sponsors!
+      %footer
+        #footer
+          .rights
+            %p ©2015 StorytellingUnleashed.com
+            %p.arr  All rights reserved
+            %a{href:"mailto:team@storytellingunleashed.com"} Team@StorytellingUnleashed.com
+          .social
+            %a{href:"#"}
+              %i.fa.fa-facebook
+            %a{href:"#"}
+              %i.fa.fa-instagram
+            %a{href:"#"}
+              %i.fa.fa-tumblr
+            %a{href:"#"}
+              %i.fa.fa-twitter
+    %script{src:"js/vendor/jquery.js"}
+    %script{src:"https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"}
+    %script{src:"js/foundation.min.js"}
+    :javascript
+      $(document).foundation();

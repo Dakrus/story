@@ -1,0 +1,48 @@
+.index-page {
+  background-image: url("../img/index-bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  overflow: hidden; }
+
+.index-content {
+  max-width: 1081px;
+  margin: auto;
+  padding: 0 10px; }
+  .index-content h3 {
+    text-align: center;
+    font-size: 47px;
+    color: white;
+    max-width: 800px;
+    margin: 70px auto 50px auto; }
+  .index-content .video-block {
+    max-width: 700px;
+    margin: auto;
+    height: 420px; }
+    .index-content .video-block iframe {
+      width: 100%;
+      height: 100%; }
+  .index-content .get-tutorial h3 {
+    font-size: 24px;
+    margin-bottom: 10px; }
+  .index-content .get-tutorial p {
+    font-size: 14px;
+    color: white;
+    text-align: center; }
+    .index-content .get-tutorial p b {
+      color: #e74736; }
+  .index-content .get-tutorial .gt-form {
+    max-width: 620px;
+    margin: auto; }
+    .index-content .get-tutorial .gt-form form input {
+      border-top-left-radius: 3px;
+      border-bottom-left-radius: 3px; }
+    .index-content .get-tutorial .gt-form form a {
+      border-top-right-radius: 3px;
+      border-bottom-right-radius: 3px;
+      text-transform: uppercase;
+      background-color: #e74736; }
+      .index-content .get-tutorial .gt-form form a:hover {
+        background-color: #ff7d41; }
+
+/*# sourceMappingURL=index.css.map */
