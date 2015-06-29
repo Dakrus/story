@@ -39,17 +39,44 @@ header {
     font-weight: bold;
     padding: 75px 0; }
 
-.photo {
-  width: 280px;
-  max-width: 26%;
+.story img {
+  width: 27%;
   float: left;
-  height: 375px; }
+  margin-right: 8%; }
 
-.s-text {
-  padding: 0 0px 0 75px;
-  max-width: 74%;
+.cl-logo {
+  width: 17%;
+  height: 62px;
+  margin: 10px 4%;
   float: left;
-  margin-top: -6px; }
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: contain;
+  filter: gray;
+  -webkit-filter: grayscale(100%);
+  opacity: 0.6; }
+  .cl-logo:hover {
+    filter: none;
+    -webkit-filter: none;
+    opacity: 1; }
+
+.client-list {
+  display: flex;
+  max-width: 880px;
+  margin: auto;
+  align-items: center;
+  margin-top: 15px; }
+  .client-list .client {
+    margin: 0 2rem;
+    width: 155px; }
+    .client-list .client a img {
+      filter: gray;
+      -webkit-filter: grayscale(100%);
+      opacity: 0.6; }
+    .client-list .client a:hover img {
+      opacity: 1;
+      filter: none;
+      -webkit-filter: none; }
 
 .clients {
   background-color: white;
@@ -66,79 +93,12 @@ header {
     margin: 80px 0 30px 0;
     font-weight: bold; }
 
-.cl-logo {
-  width: 17%;
-  height: 62px;
-  margin: 10px 4%;
-  float: left;
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: contain; }
-
-.cl-l1 {
-  background-image: url("../img/Goodyear.png"); }
-  .cl-l1:hover {
-    background-image: url("../img/Goodyear-c.png"); }
-
-.cl-l2 {
-  background-image: url("../img/Motorola.png"); }
-  .cl-l2:hover {
-    background-image: url("../img/Motorola-c.png"); }
-
-.cl-l3 {
-  background-image: url("../img/Turner.png"); }
-  .cl-l3:hover {
-    background-image: url("../img/Turner-c.png"); }
-
-.cl-l4 {
-  background-image: url("../img/SherylCrow.png"); }
-  .cl-l4:hover {
-    background-image: url("../img/SherylCrow-c.png"); }
-
-.cl-l5 {
-  background-image: url("../img/WarnerBros.png"); }
-  .cl-l5:hover {
-    background-image: url("../img/WarnerBros-c.png"); }
-
-.cl-l6 {
-  background-image: url("../img/TGIFridays.png"); }
-  .cl-l6:hover {
-    background-image: url("../img/TGIFridays-c.png"); }
-
-.cl-l7 {
-  background-image: url("../img/Rode_logo.png"); }
-  .cl-l7:hover {
-    background-image: url("../img/Rode_logo-c.png"); }
-
-.cl-l8 {
-  background-image: url("../img/TimeWarner.png"); }
-  .cl-l8:hover {
-    background-image: url("../img/TimeWarner-c.png"); }
-
-.cl-l9 {
-  background-image: url("../img/HBO.png");
-  background-size: 66%; }
-  .cl-l9:hover {
-    background-image: url("../img/HBO-c.png"); }
-
-.cl-l10 {
-  background-image: url("../img/Sam'sClub.png"); }
-  .cl-l10:hover {
-    background-image: url("../img/Sam'sClub-c.png"); }
-
-.cl-l11 {
-  background-image: url("../img/MakeaWish.png"); }
-  .cl-l11:hover {
-    background-image: url("../img/MakeaWish-c.png"); }
-
 .cl-l12 {
   color: #e74736;
   float: left;
+  text-align: center;
   margin: 23px 3.5%;
-  width: 15%;
-  text-align: center; }
-  .cl-l12:hover {
-    color: red; }
+  width: 15%; }
 
 .green_btn {
   text-align: center;
@@ -309,6 +269,7 @@ header {
     color: #e74736; }
 
 footer {
+  clear: both;
   width: 100%;
   background-color: #1d1d1d; }
   footer #footer {

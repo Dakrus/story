@@ -78,6 +78,16 @@
   .register .form .form-in .calendar {
     margin: 0; } }
 @media only screen and (max-width: 800px) {
+  .story .photo {
+    width: 25%;
+    max-width: none;
+    height: auto; }
+  .story .s-text {
+    padding: 0 0px 0 50px;
+    width: 70%;
+    float: left;
+    margin-top: -6px; }
+
   .register .form .form-in .calendar {
     float: left;
     margin: 0; } }
@@ -135,16 +145,35 @@
 
   .ticket-spec {
     margin-top: 30px; } }
-@media only screen and (max-width: 700px) {
-  .sc-row-top .sponsor-cell {
-    margin: 0 2rem !important; }
+.c-in h3 {
+  font-size: 40px;
+  padding: 50px 0; }
+.c-in .story {
+  overflow: hidden; }
+  .c-in .story .photo {
+    width: 30%;
+    float: none;
+    margin: auto;
+    max-width: none;
+    height: auto; }
+  .c-in .story .s-text {
+    padding: 0;
+    width: 100%;
+    margin: auto;
+    max-width: none;
+    padding-top: 20px;
+    float: left;
+    margin-top: 0; }
+    .c-in .story .s-text p {
+      text-align: justify; }
+.c-in .sc-row-top .sponsor-cell {
+  margin: 0 2rem !important; }
+.c-in .sc-row-mid .sponsor-cell {
+  width: 100px !important; }
+.c-in .sc-row-bot .sponsor-cell {
+  width: 66px !important;
+  margin: 0 1rem !important; }
 
-  .sc-row-mid .sponsor-cell {
-    width: 100px !important; }
-
-  .sc-row-bot .sponsor-cell {
-    width: 66px !important;
-    margin: 0 1rem !important; } }
 @media only screen and (max-width: 650px) {
   .quote p {
     text-align: center; }
